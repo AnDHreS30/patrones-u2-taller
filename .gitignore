@@ -1,0 +1,17 @@
+# Archivos generados por Gradle
+.gradle/
+build/
+
+# Archivos generados por Eclipse
+bin/
+.classpath
+.project
+.settings/
+
+# Archivos de IntelliJ IDEA
+.idea/
+*.iml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
